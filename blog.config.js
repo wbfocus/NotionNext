@@ -27,7 +27,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '小微之家', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '致力于为众多小微创业人士提供专业财税支持🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.xiaoweihome.cn', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '老板财税, 小微之家, 财税合规, 财税咨询, 个体工商户, 个人独资企业, 企业所得税, 所得税汇算清缴, 老汪讲财税', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '老板财税, 小微之家, 财税合规, 财税咨询, 个体工商户, 个人独资企业, 企业所得税, 包河区, 合肥市, 所得税汇算清缴, 老汪讲财税', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'info@xiaoweihome.cn', // 邮箱地址 例如mail@tangly1024.com
